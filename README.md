@@ -10,13 +10,13 @@ I'm a **Full-Stack Web Developer** based in **Brussels**, passionate about build
 
 ### 🎯 **My Interests:**
 - Web Development (Front-end & Back-end)
-- Video Games
 - Bringing Ethics into Tech
 - Open Source Contributions
+- Video Games
 - Building solutions that are **scalable**, **efficient**, and **artist-friendly**.
 
 ### 🌱 **Currently Learning:**
-- Lighteweight Javascript frameworks **Preact**, **Svelte**, **Solid**. Let's get feather light!
+- Lightweight Javascript frameworks **Preact**, **Svelte**, **Solid**. Let's get feather light!
 - Cloud Infrastructure & Deployment
 - **Go** basics
 - Best practices in **Continuous Integration (CI)** and **Continuous Deployment (CD)**
