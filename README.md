@@ -3,8 +3,8 @@
 I'm a **Full-Stack Web Developer** based in **Brussels**, passionate about building scalable, user-friendly applications and exploring innovative technologies. I recently completed a full-time full-stack development program at **BeCode**, where I honed my skills in both front-end and back-end technologies.
 
 ### 🔍 **What I’m working on:**
-- Building an **Admin Dashboard** from for [levv](https://levv.io), a green cloud infrastructure provider based in Brussels.
-- Developing API architectures using **Node.js** and **MongoDB** on my free time.
+- Building an **Admin Dashboard** for [levv](https://levv.io), a green cloud infrastructure provider based in Brussels.
+- Developing API architectures using **Node.js** and **MongoDB** in my free time.
 - Experimenting with **Preact** and responsive design to deliver seamless user experiences.
 
 
