@@ -1,25 +1,29 @@
-# 👋 Hello, I'm Ilias !
+# 👋 Hey, I'm Ilias!
 
-I'm a **Full-Stack Web Developer** based in **Brussels**, passionate about building scalable, user-friendly applications and exploring innovative technologies.
+I'm a **Full-Stack Developer** based in **Brussels, Belgium**, passionate about open-source software, web development, and cloud infrastructure.
 
-### 🔍 **What I’m working on:**
-- Building an **Admin Dashboard** for [levv](https://levv.io), a green cloud infrastructure provider based in Brussels.
-- Developing API architectures using **Node.js** and **MongoDB** in my free time.
-- Experimenting with **Preact** and responsive design to deliver seamless user experiences.
+### 🔍 What I'm working on
 
+Currently working at [Levv](https://levv.io/), where I:
 
-### 🎯 **My Interests:**
-- Web Development (Front-end & Back-end)
-- Bringing Ethics into Tech
-- Open Source Contributions
-- Video Games
-- Building solutions that are **scalable**, **efficient**, and **artist-friendly**.
+- Develop and maintain a platform dedicated to open-source applications.
+- Discover, evaluate, and integrate open-source solutions.
+- Deploy and test self-hosted applications using.
+- Contribute to the development and maintenance of our website.
 
-### 🌱 **Currently Learning:**
-- Lightweight Javascript frameworks **Preact**, **Svelte**, **Solid**. Let's get feather light!
-- Cloud Infrastructure & Deployment
-- **Go** basics
-- Best practices in **Continuous Integration (CI)** and **Continuous Deployment (CD)**
+### 🌱 What I'm exploring
+
+- **Cloud architecture** and cloud-native technologies.
+- **GitOps** and infrastructure automation.
+- Building reliable, maintainable, and scalable systems.
+
+### 💡 What matters to me
+
+I believe technology should be **open, accessible, and respectful of its users**.
+
+I'm particularly interested in **digital sovereignty**, **privacy**, **decentralization**, and **sustainable computing**; and in making open-source alternatives easier for everyone to use.
+
+Beyond tech, I'm also into **video games** and creative communities.
 
 ### 📫 **How to reach me:**
 - [LinkedIn](www.linkedin.com/in/ilias-benrhamous)
